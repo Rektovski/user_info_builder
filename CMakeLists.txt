@@ -4,6 +4,8 @@ project(untitled3)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(untitled3 main.cpp
-        user_info_builder.cpp
-        user_info_builder.h
+        cpp_format/build_user.cpp
+        h_format/build_user.h
+        cpp_format/build_user_helper.cpp
+        h_format/build_user_helper.h
 )

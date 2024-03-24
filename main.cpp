@@ -1,7 +1,5 @@
-#include <iostream>
-#include "user_info_builder.h"
+#include "h_format/build_user.h"
 
-int main()
-{
-    build_user_info();
+int main() {
+    build_info();
 }
