@@ -1,0 +1,16 @@
+# ninja log v5
+3	468	7329800871345344	CMakeFiles/untitled3.dir/main.cpp.obj	b8c8262e8001cb3b
+463	572	7329837372125688	untitled3.exe	7f4e7ecdac69faf4
+1	157	7327998752248779	build.ninja	aac194f084957ce
+4	740	7327952480029455	CMakeFiles/untitled3.dir/test_1.cpp.obj	72e92cb405fb0dcd
+3	462	7329837371072416	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+3	529	7329838486131176	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+529	625	7329838487051686	untitled3.exe	7f4e7ecdac69faf4
+4	662	7329838789601993	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+662	753	7329838790476869	untitled3.exe	7f4e7ecdac69faf4
+3	550	7329839705822007	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+551	648	7329839706767089	untitled3.exe	7f4e7ecdac69faf4
+4	476	7329845808652154	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+476	580	7329845809639930	untitled3.exe	7f4e7ecdac69faf4
+3	1620	7329936137590950	CMakeFiles/untitled3.dir/user_info_builder.cpp.obj	b31a3416852276d4
+1621	1899	7329936140349094	untitled3.exe	7f4e7ecdac69faf4
